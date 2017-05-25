@@ -34,5 +34,8 @@
     "url": "git://github.com/alexander/sails-fileupload-cloudinary-demo.git"
   },
   "author": "alexander",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "sails-hook-autoreload": "^1.0.0"
+  }
 }
