@@ -1,3 +1,3 @@
 # sails-fileupload-cloudinary-demo
 
-a [Sails](http://sailsjs.org) application
+Example implementing cloudinary with SailsJS
